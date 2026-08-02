@@ -50,35 +50,6 @@ La topología física incluye:
 
 ---
 
-## 🛠️ Habilidades
-
-- **ASESORÍA LEGAL CORPORATIVA:** Gestión integral del ciclo de vida del negocio, desde la constitución hasta la operatividad comercial, asegurando el cumplimiento normativo y la protección de activos.
-- **LEGAL FINDER E INTELIGENCIA NORMATIVA:** Monitoreo y análisis exhaustivo de Gacetas Oficiales y boletines legales. Elaboración de resúmenes ejecutivos y opiniones legales sobre tendencias jurídicas actuales.
-- **RECOLECCIÓN Y ANÁLISIS DE DATOS:** Elaboración de formularios de Google, curación de datos a través de Excel/PowerBI, y elaboración de dashboards en Excel/PowerBI.
-- **INVESTIGACIÓN PROFUNDA:** Búsqueda avanzada de información pública con metodología OSINT y Google Search Operators.
-- **ARQUITECTURA DE RED Y CIBERSEGURIDAD:** Comprensión de principios de segmentación de red (VLANs), control de accesos (firewalls/ACLs) y su aplicación para cumplir con normativas de protección de datos y ciberseguridad (GDPR, NIS2, ISO 27001).
-
----
-
-## 🏆 Reconocimientos y Participaciones
-
-- **Reconocimiento por ICAC:** Ponencia internacional sobre la IA aplicada al Derecho (Perú, 2025).
-- **Reconocimiento por la Universidad de El Salvador:** Ponencia internacional "IA aplicada al Derecho" (El Salvador, 2025).
-
----
-
-### Artículos Publicados
-
-- **"IA: El Final Boss de la Geopolítica Moderna"**  
-  Análisis de normativa y política exterior de Estados Unidos y China en temas de desarrollo de la inteligencia artificial.  
-  [Leer más](https://chicasenrrii.com/ia-hegemonia-tecnologica-geopolitica/)
-
-- **"La Innovación Legal y la Inteligencia Artificial: ¿Cómo la Transformación Digital Puede Generar Discriminación Algorítmica y Vigilancia Masiva en el Sector Público?"**  
-  La digitalización con IA en el sector público y privado plantea riesgos de discriminación algorítmica y vigilancia masiva. Se aborda la necesidad de regulaciones que equilibren innovación y derechos humanos para una transformación digital justa y segura.  
-  [Leer más](https://www.researchgate.net/publication/390438188_LA_INNOVACION_LEGAL_Y_LA_INTELIGENCIA_ARTIFICIAL_COMO_LA_TRANFORMACION_DIGITAL_PUEDE_GENERAR_DISCRIMINACION_ALGORITMICA_Y_LA_VIGILANCIA_MASIVA_EN_EL_SECTOR_PUBLICO)
-
----
-
 ## 📬 Contacto
 
 📧 [elarhuaa@gmail.com](mailto:elarhuaa@gmail.com)
