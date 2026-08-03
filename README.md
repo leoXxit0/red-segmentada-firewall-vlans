@@ -1,6 +1,6 @@
 # 🌐 Segmentación de Red PYME con VLANs y Firewall
 
-![Banner del Proyecto](bannerp.png)
+![Banner del Proyecto](banner.png)
 
 ## por: Eleonor A.H. (@leonXxit0)
 
